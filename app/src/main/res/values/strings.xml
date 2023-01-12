@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ReliefMinds</string>
+    <string name="hello_rodney_welcome_to_android_programming">Hello Rodney Welcome to Android Programming!</string>
+    <string name="login_form">Login Form</string>
+    <string name="button">Login</string>
+    <string name="login">Login</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="names">Enter Full Names</string>
+    <string name="email">Enter Email Address</string>
+    <string-array name="gender">
+        <item>Select gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string name="contact">Enter Phone Number</string>
+    <string name="dob">Enter DOB</string>
+    <string name="fname">Enter First Name</string>
+    <string name="lname">Enter Last Name</string>
+    <string name="registerbtn">Create Account</string>
+    <string name="registration_form">Registration Form</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="are_you_new_here_register">Are you new here? Register</string>
+    <string name="login_formt">Login Form</string>
+    <string name="see_your_doctor">See your Doctor</string>
+    <string name="ask_questions">Ask Questions</string>
+    <string name="welcome_doctor_code">Welcome, Doctor Code</string>
+    <string name="dashboard">Dashboard</string>
+    <string-array name="rcenters">
+        <item>Select Rehab Center</item>
+        <item>Butabika Rehab facility</item>
+        <item>Mulago Rehab Center</item>
+        <item>New Life Rehab Center</item>
+        <item>Ukara Mental health Center</item>
+        <item>Relief Minds</item>
+    </string-array>
+</resources>
